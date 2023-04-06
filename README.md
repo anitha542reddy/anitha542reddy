@@ -1,12 +1,9 @@
 ![MasterHead](https://wallpaperaccess.com/full/1704555.jpg)
-<h1 align="center">Hi 👋, I'm Anitharani Y</h1>
-<h3 align="center">A passionate Data Scientist</h3>
-
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47bubvk53ix8wzsz07fi4b3wjaf49my47voih9564r&rid=giphy.gif&ct=g">
+<h1 align="center">Hi 👋, I'm Anitharani Y</h1
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anitha542reddy&label=Profile%20views&color=0e75b6&style=flat" alt="anitha542reddy" /> </p>
 
-- 🌱 I’m currently learning **Machine learning,Python,Tableau,R, MySQL**
+- 🌱 I’m currently learning **Machine learning,Python,Tableau, MySQL**
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
